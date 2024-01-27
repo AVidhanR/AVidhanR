@@ -7,7 +7,7 @@ Learn Compose and Kotlin: [`Jetpack Compose`](https://developer.android.com/cour
 - 🌱 I’m currently learning Android using Jetpack Compose.
 - 👯 I’m looking to collaborate on Compose and React
 - 😄 Pronouns: Red, Vinnu
-- 📫 How to reach me: [`itsvidhanreddy`](https://linktr.ee/@itsvidhanreddy)
+- 📫 How to reach me: [`@itsvidhanreddy`](https://linktr.ee/itsvidhanreddy)
 <!--
 **AVidhanR/AVidhanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
