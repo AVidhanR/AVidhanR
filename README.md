@@ -5,8 +5,9 @@ Learn to become a Data Science specialist: [`Data Science`](https://www.kaggle.c
 Learn Compose and Kotlin: [`Jetpack Compose`](https://developer.android.com/courses/android-basics-compose/course)\
 Learn Machine Learning from Google Devs: [`Machine Learning`](https://developers.google.com/machine-learning)
 ### My Learning and other Stacks
-- 🌱 I’m currently learning Android using Jetpack Compose.
-- 👯 I’m looking to collaborate on Compose and React
+- ✅ Acquired Basic knowledge on Android using Jetpack Compose.
+- 🌱 I'm currently learning MERN Stack.
+- 👯 I’m looking to collaborate on Android Compose and ReactJs.
 - 😄 Pronouns: Red, Vinnu
 - 📫 How to reach me: [`@itsvidhanreddy`](https://linktr.ee/itsvidhanreddy)
 <!--
