@@ -11,7 +11,7 @@
 ----
 ### My Learning and other Stacks
 - ✅ Acquired Basic knowledge on Android using Jetpack Compose.
-- 🌱 I'm currently learning MERN Stack.
+- 🌱 See what I'm learning now from [`here`](https://github.com/LearnBuildGrow)
 - 👯 I’m looking to collaborate on Android Compose and ReactJs.
 - 😄 Pronouns: Red, Vinnu
 - 📫 How to reach me: [`@itsvidhanreddy`](https://linktr.ee/itsvidhanreddy)
