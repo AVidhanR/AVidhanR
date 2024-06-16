@@ -12,7 +12,7 @@
 ----
 ### My Learning and other Stacks
 - ✅ Acquired Basic knowledge on Android using Jetpack Compose.
-- 🌱 See what I'm learning now from [`here`](https://github.com/AVidhanR/LearnBuildGrow)
+- 🌱 See what I'm learning now from [here](https://github.com/AVidhanR/LearnBuildGrow)
 - 👯 I’m looking to collaborate on Android Compose and ReactJs.
 - 😄 Pronouns: Red, Vinnu
 - 📫 How to reach me: [`@itsvidhanreddy`](https://linktr.ee/itsvidhanreddy)
