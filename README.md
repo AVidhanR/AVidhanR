@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-#### I'm Vidhan, a Computer Science student who wants learn more, and upgrade myself in both technical and communicational skills. I'm an Undergraduate with a passion for building user-centric web applications and intuitive Android experiences.
+#### I'm Vidhan, a Computer Science student who wants learn more, and upgrade myself in both technical and communicational skills. I'm an Undergraduate with a passion for building user-centric web applications and intuitive Android experiences 🚀
 
 ---
 
