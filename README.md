@@ -8,19 +8,19 @@
 
 - Currently a member in [GDSC](https://github.com/GDSC-REC) and have hands-on experience in `C` `C++` `Java` `Python` `JavaScript` `ReactJs` `Kotlin` and the list goes on...
 - Check out my learning progress by accessing this repo - [LearnBuildGrow](https://github.com/AVidhanR/LearnBuildGrow)
-- I learned most of the below tecnologies from,
+- I learned most of the below technologies from,
 
 ```js
   export MyLearningResources = {
     freeCodeCamp: "",
     YT: "YouTube",
     freeCodeCampYT: "",
-    HiteshChoudarYT: "",
-    GoogleDevelopers: "Visit the Google Devlopers Site",
+    HiteshChoudharyYT: "",
+    GoogleDevelopers: "Visit the Google Developers Site",
     GitHub: "From various GitHub Repositories",
     Udemy: "Free Courses",
     Coursera: "Auditing the course",
-    edX: "Under College Subsrciption",
+    edX: "Under College Subscription",
     CheatSheets: "Access them from the below section"
   };
 ```
@@ -41,14 +41,16 @@
 - Learn NodeJS through the official tutorial: [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
   - **After NodeJS**, try to learn and use [ExpressJS](https://expressjs.com/en/starter/installing.html)
 - Learn NextJS from the Vercel (As NextJS is a ReactJS framework, It's a good practice to learn ReactJS before learning NextJS): [NextJS](https://nextjs.org/learn/dashboard-app)
-- Get a good grip of TailwindCSS (It's a good practice to learn the official CSS before learing TailwindCSS): [TailwindCSS]
+- Get a good grip of TailwindCSS (It's a good practice to learn the official CSS before learning TailwindCSS): [TailwindCSS]
 - Learn TypeScript for:
   - [Full Fledged Handbook: TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
   - [A New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
   - [A JavaScript Programmer](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
   - [A Java/C# Programmer](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)
-
----
+- Checkout my cheat-Sheets collection from [here](./cheat_sheets/)
+  - CheatSheet of Flexbox: [`CSS Flexbox`](./cheat_sheets/css/CSS%20Flexbox%20Cheatsheet.pdf)
+  - CheatSheet of Grids: [`CSS Grids`](./cheat_sheets/css/CSS%20Grid%20Cheatsheet.pdf)
+- ## Checkout my Shortcuts from [here](./shortcuts/)
 
 ### 💻 My Learning and other Stacks
 
