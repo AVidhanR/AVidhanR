@@ -1,6 +1,8 @@
 ### Hi there 👋🏻
 
-#### I'm Vidhan, a Computer Science student who wants learn more, and upgrade myself in both technical and communicational skills. I'm an Undergraduate with a passion for building user-centric web applications and intuitive Android experiences.
+#### - I'm Vidhan, a Computer Science student who wants learn more, and upgrade myself in both technical and communicational skills.
+
+#### - I'm an Undergraduate with a passion for building user-centric web applications and intuitive Android experiences.
 
 ---
 
@@ -82,7 +84,7 @@
 - `ExpressJS` & `NodeJS` = Backend.
 - `NextJS` = Beginner Full Stack.
 - `TailwindCSS` & `ReactRouter` = Styling and Routing.
-- `Accertinity UI` library using NextJS.
+- `Aceternity UI` library using NextJS.
 
 ---
 
@@ -94,7 +96,8 @@
 - 😄 Pronouns: Vinnu, Reddy.
 - ⚡ Fun fact: University education is not obligatory.
 - 📫 How to reach me: [**@itsvidhanreddy**](https://linktr.ee/itsvidhanreddy)
-- 💹📈 Visit my portfolio from [here](https://avidhanr.github.io/MyPortfolio)
+- 📈 Visit my portfolio from [here](https://avidhanr.github.io/MyPortfolio) - for now, I built it using only HTML, CSS and JavaScript.
+- ⚠️ I'm working on my new portfolio website powered using, **NextJS** and **Aceternity UI** Library.
 <!--
 **AVidhanR/AVidhanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
