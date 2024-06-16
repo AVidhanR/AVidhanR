@@ -33,22 +33,31 @@
 - Learn Compose using Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
 - Learn Machine Learning from Google Devs: [Machine Learning](https://developers.google.com/machine-learning)
 - From `web.dev`
+
   - Learn HTML: [HTML](https://web.dev/learn/html)
   - Learn CSS: [CSS](https://web.dev/learn/css)
   - Learn JavaScript: [JavaScript](https://web.dev/learn/javascript)
+
 - Learn ReactJS through the tutorials and official documentation: [ReactJS](https://react.dev/learn)
+
   - **After ReactJS**, try to learn and use [ReactJS + Vite](https://vitejs.dev/guide/#trying-vite-online)
+
 - Learn NodeJS through the official tutorial: [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+
   - **After NodeJS**, try to learn and use [ExpressJS](https://expressjs.com/en/starter/installing.html)
+
 - Learn NextJS from the Vercel (As NextJS is a ReactJS framework, It's a good practice to learn ReactJS before learning NextJS): [NextJS](https://nextjs.org/learn/dashboard-app)
 - Get a good grip of TailwindCSS (It's a good practice to learn the official CSS before learning TailwindCSS): [TailwindCSS]
 - Learn TypeScript for:
+
   - [Full Fledged Handbook: TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
   - [A New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
   - [A JavaScript Programmer](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
   - [A Java/C# Programmer](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)
+
 - Checkout my cheat-Sheets collection from [here](./cheat_sheets/)
-  - CheatSheet of Flexbox: [`CSS Flexbox`](./cheat_sheets/css/CSS%20Flexbox%20Cheatsheet.pdf)
+
+- CheatSheet of Flexbox: [`CSS Flexbox`](./cheat_sheets/css/CSS%20Flexbox%20Cheatsheet.pdf)
   - CheatSheet of Grids: [`CSS Grids`](./cheat_sheets/css/CSS%20Grid%20Cheatsheet.pdf)
 - Checkout my Shortcuts from [here](./shortcuts/)
   - Computer Shortcuts only using `Ctrl` key: [`Ctrl Key Shortcuts`](./shortcuts/Control%20Key%20Shortcuts.png)
