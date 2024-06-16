@@ -60,7 +60,7 @@
   - CheatSheet of Flexbox: [CSS Flexbox](./cheat_sheets/css/CSS%20Flexbox%20Cheatsheet.pdf)
   - CheatSheet of Grids: [CSS Grids](./cheat_sheets/css/CSS%20Grid%20Cheatsheet.pdf)
 
-- Checkout my Shortcuts from [`here`](./shortcuts/)
+- Checkout my Shortcuts from [here](./shortcuts/)
   - Computer Shortcuts only using Ctrl key: [Ctrl Key Shortcuts](./shortcuts/Control%20Key%20Shortcuts.png)
   - All Computer Shortcuts: [💻 Shortcuts](./shortcuts/All%20Useful%20Computer%20Shortcuts.png)
   - Visual Studio Code Shortcuts: [VS Code Shortcuts](./shortcuts/Visual%20Studio%20Code%20Shortcuts.pdf)
