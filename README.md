@@ -72,12 +72,12 @@
 
 ### 🧑🏻‍💻 My Progress in various Technical Stuff
 
-- ✅ Acquired Basic knowledge on
+- ✅ Acquired Basic Experience on,
 
-  - Android using Jetpack Compose.
-  - `Streamlit` = Beginner.
+  - Building apps on Android using Jetpack Compose.
+  - Built few web apps using `Streamlit` = Beginner. (Checkout Streamlit projects in my repos)
 
-  - HTML, CSS, JavaScript = Complete Beginner `Web Stack`
+  - Built many Websites using HTML, CSS, JavaScript = Complete Beginner `Web Stack`
   - `ReactJS` upto Hooks and `ReactJS + Vite` = Advanced.
   - `ExpressJS` & `NodeJS` = Backend.
   - `NextJS` = Beginner Full Stack.
