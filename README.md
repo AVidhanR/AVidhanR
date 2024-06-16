@@ -82,7 +82,7 @@
 - `ExpressJS` & `NodeJS` = Backend.
 - `NextJS` = Beginner Full Stack.
 - `TailwindCSS` & `ReactRouter` = Styling and Routing.
-- `Accertinity UI` library.
+- `Accertinity UI` library using NextJS.
 
 ---
 
