@@ -7,8 +7,12 @@
 ----
 ### Gain Knowledge 
 * Learn to become a Data Science specialist: [Data Science](https://www.kaggle.com/learn)
-* Learn Compose and Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
+* Learn Compose using Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
 * Learn Machine Learning from Google Devs: [Machine Learning](https://developers.google.com/machine-learning)
+* Learn ReactJS through the tutorials and official documentation: [ReactJS](https://react.dev/learn).
+  * **After ReactJS**, try to learn and use [ReactJS + Vite](https://vitejs.dev/guide/#trying-vite-online).
+* Learn NodeJS through the official tutorial: [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).
+  * **After NodeJS**, try to learn and use [ExpressJS](https://expressjs.com/en/starter/installing.html). 
 ----
 ### My Learning and other Stacks
 - ✅ Acquired Basic knowledge
