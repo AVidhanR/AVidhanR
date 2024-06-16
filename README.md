@@ -9,19 +9,25 @@
 * Learn to become a Data Science specialist: [Data Science](https://www.kaggle.com/learn)
 * Learn Compose using Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
 * Learn Machine Learning from Google Devs: [Machine Learning](https://developers.google.com/machine-learning)
-* Learn ReactJS through the tutorials and official documentation: [ReactJS](https://react.dev/learn).
-  * **After ReactJS**, try to learn and use [ReactJS + Vite](https://vitejs.dev/guide/#trying-vite-online).
-* Learn NodeJS through the official tutorial: [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).
-  * **After NodeJS**, try to learn and use [ExpressJS](https://expressjs.com/en/starter/installing.html). 
+* From `web.dev`
+  * Learn HTML: [HTML](https://web.dev/learn/html)
+  * Learn CSS: [CSS](https://web.dev/learn/css)
+  * Learn JavaScript: [JavaScript](https://web.dev/learn/javascript)
+* Learn ReactJS through the tutorials and official documentation: [ReactJS](https://react.dev/learn)
+  * **After ReactJS**, try to learn and use [ReactJS + Vite](https://vitejs.dev/guide/#trying-vite-online)
+* Learn NodeJS through the official tutorial: [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+  * **After NodeJS**, try to learn and use [ExpressJS](https://expressjs.com/en/starter/installing.html)
+* Learn NextJS from the Vercel (As NextJS is a ReactJS framework, It's a good practice to learn ReactJS before learning NextJS): [NextJS](https://nextjs.org/learn/dashboard-app)
 ----
 ### My Learning and other Stacks
-- ✅ Acquired Basic knowledge
+- ✅ Acquired Basic knowledge on
   - Android using Jetpack Compose.
   - HTML, CSS, JavaScript = Beginner `Web Stack`
-  - [ReactJS](https://react.dev/learn) upto Hooks and [ReactJS + Vite](https://vitejs.dev/guide/#trying-vite-online).
-  - [ExpressJS](https://expressjs.com/en/starter/installing.html) and [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).
-  - [NextJS](https://nextjs.org/learn?utm_source=next-site&utm_medium=navbar&utm_campaign=home), [TailwindCSS](https://tailwindcss.com/docs/installation), [ReactRouter](https://reactrouter.com/en/main/start/overview).
-  - [Accertinity UI](https://ui.aceternity.com/components) library.
+  - `ReactJS` upto Hooks and `ReactJS + Vite`
+  - `ExpressJS` & `NodeJS` = Backend.
+  - `NextJS` = Full Stack.
+  - `TailwindCSS` `ReactRouter` = Styling and Routing.
+  - `Accertinity UI` library.
 - 🌱 See what I'm learning now from [here](https://github.com/AVidhanR/LearnBuildGrow)
 - 👯 I’m looking to collaborate on Android Compose, ReactJS and NextJS.
 - 😄 Pronouns: Vinnu, Reddy.
