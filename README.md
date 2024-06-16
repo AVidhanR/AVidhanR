@@ -77,7 +77,7 @@
   - Building apps on Android using Jetpack Compose.
   - Built few web apps using `Streamlit` = Beginner. (Checkout Streamlit projects in my repos)
 
-  - Built many Websites using HTML, CSS, JavaScript = Complete Beginner `Web Stack`
+  - Built many Websites using HTML, CSS and JavaScript = Complete Beginner `Web Stack`
   - `ReactJS` upto Hooks and `ReactJS + Vite` = Advanced.
   - `ExpressJS` & `NodeJS` = Backend.
   - `NextJS` = Beginner Full Stack.
