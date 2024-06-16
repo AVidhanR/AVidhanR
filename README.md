@@ -62,11 +62,13 @@
 
 - Checkout my Shortcuts from [here](./shortcuts/)
   - Computer Shortcuts only using Ctrl key: [Ctrl Key Shortcuts](./shortcuts/Control%20Key%20Shortcuts.png)
-  - All Computer Shortcuts: [💻 Shortcuts](./shortcuts/All%20Useful%20Computer%20Shortcuts.png)
+  - All Computer Shortcuts: [Computer Shortcuts](./shortcuts/All%20Useful%20Computer%20Shortcuts.png)
   - Visual Studio Code Shortcuts: [VS Code Shortcuts](./shortcuts/Visual%20Studio%20Code%20Shortcuts.pdf)
   - MS Excel, Word and Outlook Shortcuts: [Productivity Shortcuts](./shortcuts/MS%20Excel,%20Word%20and%20Outlook%20Shortcuts.png)
 - Documentation on Bootstrap: [Bootstrap](./web_technologies/Bootstrap%20Documentation.pdf)
 - Documentation on Web Technologies: [Web Tech](./web_technologies/Web%20Technologies%20Using%20React.pdf)
+
+---
 
 ### 🧑🏻‍💻 My Progress in various Technical Stuff
 
