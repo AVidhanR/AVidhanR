@@ -57,8 +57,9 @@
 
 - Checkout my cheat-Sheets collection from [here](./cheat_sheets/)
 
-- CheatSheet of Flexbox: [`CSS Flexbox`](./cheat_sheets/css/CSS%20Flexbox%20Cheatsheet.pdf)
+  - CheatSheet of Flexbox: [`CSS Flexbox`](./cheat_sheets/css/CSS%20Flexbox%20Cheatsheet.pdf)
   - CheatSheet of Grids: [`CSS Grids`](./cheat_sheets/css/CSS%20Grid%20Cheatsheet.pdf)
+
 - Checkout my Shortcuts from [here](./shortcuts/)
   - Computer Shortcuts only using `Ctrl` key: [`Ctrl Key Shortcuts`](./shortcuts/Control%20Key%20Shortcuts.png)
   - All Computer Shortcuts: [`💻 Shortcuts`](./shortcuts/All%20Useful%20Computer%20Shortcuts.png)
