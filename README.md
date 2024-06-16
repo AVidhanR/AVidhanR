@@ -95,7 +95,7 @@
 - ⚡ Fun fact: University education is not obligatory.
 - 📫 How to reach me: [**@itsvidhanreddy**](https://linktr.ee/itsvidhanreddy)
 - 📈 Visit my portfolio from [here](https://avidhanr.github.io/MyPortfolio) - for now, I built it using only HTML, CSS and JavaScript.
-- ⚠️ I'm working on my new portfolio website powered using, **NextJS** and **Aceternity UI** Library.
+- ⚠️ I'm working on my new portfolio website powered with **NextJS** and **Aceternity UI** Library.
 <!--
 **AVidhanR/AVidhanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
