@@ -65,7 +65,7 @@
   - Visual Studio Code Shortcuts: [`VS Code Shortcuts`](./shortcuts/Visual%20Studio%20Code%20Shortcuts.pdf)
   - MS Excel, Word and Outlook Shortcuts: [`Productivity Shortcuts`](./shortcuts/MS%20Excel,%20Word%20and%20Outlook%20Shortcuts.png)
 
-### 💻 My Learning and other Stacks
+### 🧑🏻‍💻 My Progress in various Technical Stuff
 
 - ✅ Acquired Basic knowledge on
 
@@ -78,6 +78,10 @@
   - `NextJS` = Beginner Full Stack.
   - `TailwindCSS` & `ReactRouter` = Styling and Routing.
   - `Accertinity UI` library.
+
+---
+
+### 💻 My Learning
 
 - 🌱 See what I'm learning now from [here](https://github.com/AVidhanR/LearnBuildGrow)
 - 🔭 I’m currently working on `NextJS`
