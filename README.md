@@ -6,7 +6,7 @@
 - Check out my learning progress by accessing this repo - [LearnBuildGrow](https://github.com/AVidhanR/LearnBuildGrow)
 - I learned most of the below tecnologies from,
 ```js
-  export LearningResources = {
+  export MyLearningResources = {
     freeCodeCamp: "",
     YT: "YouTube",
     freeCodeCampYT: "",
