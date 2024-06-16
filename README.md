@@ -84,7 +84,7 @@
 - `TailwindCSS` & `ReactRouter` = Styling and Routing.
 - `Aceternity UI` library using NextJS.
 - Access my academic lab experiments of Mobile Application Development from [here](https://github.com/AVidhanR/MobileAppDevelopment) (Android using XML and Java).
-- Access my academic lab experiments of Web Technologies from [here](https://github.com/AVidhanR.WebTechnologies) (Beginner Web Stack, MySQL and Java (Servlets, JSP and JDBC)).
+- Access my academic lab experiments of Web Technologies from [here](https://github.com/AVidhanR/WebTechnologies) (Beginner Web Stack, MySQL and Java (Servlets, JSP and JDBC)).
 
 ---
 
