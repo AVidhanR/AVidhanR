@@ -8,7 +8,7 @@
 
 - Currently a member in [GDSC](https://github.com/GDSC-REC) and have hands-on experience in `C` `C++` `Java` `Python` `JavaScript` `ReactJs` `Kotlin` and the list goes on...
 - Check out my learning progress by accessing this repo - [LearnBuildGrow](https://github.com/AVidhanR/LearnBuildGrow)
-- I learned most of the below technologies from,
+- Below array contains my learning resources,
 
 ```js
   export MyLearningResources = {
