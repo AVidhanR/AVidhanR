@@ -2,7 +2,8 @@
 ### I'm Vidhan, a Computer Science student who wants learn more, and upgrade myself in both technical and communicational skills 🚀
 ----
 ### Member in an Organisation
-- Currently a member in [`GDSC`](https://github.com/GDSC-REC) and have hands-on experience in  `C` `C++` `Java` `Python` `JavaScript` `ReactJs` `Kotlin` and the list goes on... 
+- Currently a member in [`GDSC`](https://github.com/GDSC-REC) and have hands-on experience in  `C` `C++` `Java` `Python` `JavaScript` `ReactJs` `Kotlin` and the list goes on...
+- Check out my learning progress by accessing this repo - `LearnBuildGrow`(https://github.com/AVidhanR/LearnBuildGrow)
 ----
 ### Gain Knowledge 
 * Learn to become a Data Science specialist: [`Data Science`](https://www.kaggle.com/learn)
