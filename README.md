@@ -6,9 +6,9 @@
 - Check out my learning progress by accessing this repo - [LearnBuildGrow](https://github.com/AVidhanR/LearnBuildGrow)
 ----
 ### Gain Knowledge 
-* Learn to become a Data Science specialist: [`Data Science`](https://www.kaggle.com/learn)
-* Learn Compose and Kotlin: [`Jetpack Compose`](https://developer.android.com/courses/android-basics-compose/course)
-* Learn Machine Learning from Google Devs: [`Machine Learning`](https://developers.google.com/machine-learning)
+* Learn to become a Data Science specialist: [Data Science](https://www.kaggle.com/learn)
+* Learn Compose and Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
+* Learn Machine Learning from Google Devs: [Machine Learning](https://developers.google.com/machine-learning)
 ----
 ### My Learning and other Stacks
 - ✅ Acquired Basic knowledge on Android using Jetpack Compose.
