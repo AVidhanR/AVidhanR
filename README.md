@@ -89,11 +89,11 @@
 ### 💻 My Learning
 
 - 🌱 See what I'm learning now from [here](https://github.com/AVidhanR/LearnBuildGrow)
-- 🔭 I’m currently working on `NextJS`
+- 🔭 I’m currently working on **NextJS**
 - 👯 I’m looking to collaborate and contribute on Android Compose, ReactJS or NextJS.
 - 😄 Pronouns: Vinnu, Reddy.
 - ⚡ Fun fact: University education is not obligatory.
-- 📫 How to reach me: [`@itsvidhanreddy`](https://linktr.ee/itsvidhanreddy)
+- 📫 How to reach me: [**@itsvidhanreddy**](https://linktr.ee/itsvidhanreddy)
 - Visit my portfolio from [here](https://avidhanr.github.io/MyPortfolio)
 <!--
 **AVidhanR/AVidhanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
