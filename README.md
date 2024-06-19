@@ -21,7 +21,8 @@
     Udemy: "Free Courses",
     Coursera: "Auditing the course",
     edX: "Under College Subscription",
-    CheatSheets: "Access them from the below section"
+    CheatSheets: "Access them from the below section",
+    DailyDotDev: "Make sure to be updated with the latest technologies"
   };
 ```
 
