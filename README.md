@@ -2,8 +2,6 @@
 
 #### I'm Vidhan, a Computer Science student who wants learn more, and upgrade myself in both technical and communicational skills. I'm an Undergraduate with a passion for building user-centric web applications and intuitive Android experiences 🚀
 
-<a href="https://app.daily.dev/itsvidhanreddy" style="display: flex; flex-direction: row; align-items: center;"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a>
-
 ---
 
 ### 🌟 Highlights
@@ -87,6 +85,8 @@
 - `Aceternity UI` library using NextJS.
 - Access my academic lab experiments of Mobile Application Development from [here](https://github.com/AVidhanR/MobileAppDevelopment) (Android using XML and Java).
 - Access my academic lab experiments of Web Technologies from [here](https://github.com/AVidhanR/WebTechnologies) (Beginner Web Stack, MySQL and Java (Servlets, JSP and JDBC)).
+<br />
+<a href="https://app.daily.dev/itsvidhanreddy" align="center"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a>
 
 ---
 
