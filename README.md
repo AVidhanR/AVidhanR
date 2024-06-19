@@ -86,7 +86,7 @@
 - Access my academic lab experiments of Mobile Application Development from [here](https://github.com/AVidhanR/MobileAppDevelopment) (Android using XML and Java).
 - Access my academic lab experiments of Web Technologies from [here](https://github.com/AVidhanR/WebTechnologies) (Beginner Web Stack, MySQL and Java (Servlets, JSP and JDBC)).
 <br />
-<a href="https://app.daily.dev/itsvidhanreddy" align="center"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a>
+<div align="center"><a href="https://app.daily.dev/itsvidhanreddy"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a></div>
 
 ---
 
