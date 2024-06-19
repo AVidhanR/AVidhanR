@@ -2,6 +2,8 @@
 
 #### I'm Vidhan, a Computer Science student who wants learn more, and upgrade myself in both technical and communicational skills. I'm an Undergraduate with a passion for building user-centric web applications and intuitive Android experiences 🚀
 
+<a href="https://app.daily.dev/itsvidhanreddy"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a>
+
 ---
 
 ### 🌟 Highlights
