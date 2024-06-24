@@ -34,7 +34,6 @@
 - Learn Compose using Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
 - Learn Machine Learning from Google Devs: [Machine Learning](https://developers.google.com/machine-learning)
 - From `web.dev`
-
   - Learn HTML: [HTML](https://web.dev/learn/html)
   - Learn CSS: [CSS](https://web.dev/learn/css)
   - Learn JavaScript: [JavaScript](https://web.dev/learn/javascript)
