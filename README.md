@@ -66,7 +66,6 @@
 - Documentation on Bootstrap: [Bootstrap](./web_technologies/Bootstrap%20Documentation.pdf)
 - Documentation on Web Technologies: [Web Tech](./web_technologies/Web%20Technologies%20Using%20React.pdf)
 
----
 
 ## 🧑🏻‍💻 My Progress in various Technical Stuff
 
