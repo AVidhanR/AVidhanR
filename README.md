@@ -68,7 +68,7 @@
 
 ---
 
-### 🧑🏻‍💻 My Progress in various Technical Stuff
+## 🧑🏻‍💻 My Progress in various Technical Stuff
 
 #### ✅ Acquired Basic Experience on,
 
