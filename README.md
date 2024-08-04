@@ -1,4 +1,4 @@
-<div class="center">
+<div align="center">
   <h2>Hi there 👋🏻 I'm Vidhan 🚀</h2>
   <h4>
     I'm a Computer Science & Engineering Undergraduate. 
@@ -389,7 +389,7 @@
   }
 
   .center {
-    text-align: center;
+    
   }
 
   img[alt="Bash"] {
