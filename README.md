@@ -3,7 +3,7 @@
   <h4>
     I'm a Computer Science & Engineering Undergraduate. 
     <br />
-    <p style="color: #00af00;">Web | Android | Programmer | Developer | Blogger</p>
+    Web | Android | Programmer | Developer | Blogger
   </h4>
 </div>
 
@@ -11,7 +11,6 @@
 
 - A former core member in [GDSC](https://github.com/GDSC-REC) Google Developer Student Club, (REC) Raghu Engineering College, Visakhapatnam.
 - Below details contains my learning resources,
-
 ```js
   export MyLearningResources = {
     freeCodeCamp: "https://www.freecodecamp.org/learn",
@@ -375,7 +374,7 @@
     title="Vercel: A web hosting platform"
   />
 </div>
-
+<!--
 <style>
   .language-icons {
     display: flex;
@@ -383,19 +382,17 @@
     flex-wrap: wrap;
     gap: 0.5rem;
   }
-
   img {
     margin-right: 0.2rem; /* Add space between icons */
   }
-
   .center {
-    
+    text-align: cneter;
   }
-
   img[alt="Bash"] {
     filter: invert(100%) hue-rotate(180deg); /* Inverts colors and adjusts hue for a lighter effect */
   }
 </style>
+-->
 
 ### ✅ Checkout
 
