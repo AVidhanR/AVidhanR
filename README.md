@@ -2,7 +2,7 @@
 
 #### I'm Vidhan, a Computer Science student who wants learn more, and upgrade myself in both technical and communicational skills. I'm an Undergraduate with a passion for building user-centric web applications and intuitive Android experiences 🚀
 
-## 🌟 Highlights
+### 🌟 Highlights
 - Currently a member in [GDSC](https://github.com/GDSC-REC) and have hands-on experience in `C` `C++` `Java` `Python` `JavaScript` `ReactJs` `Kotlin` and the list goes on...
 - Check out my learning progress by accessing this repo - [LearnBuildGrow](https://github.com/AVidhanR/LearnBuildGrow)
 - Below array contains my learning resources,
@@ -22,7 +22,7 @@
     DailyDotDev: "Make sure to be updated with the latest technologies"
   };
 ```
-## 🤝 Gain Knowledge
+### 🤝 Gain Knowledge
 - Learn to become a Data Science specialist: [Data Science](https://www.kaggle.com/learn)
 - Learn Compose using Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
 - Learn Machine Learning from Google Devs: [Machine Learning](https://developers.google.com/machine-learning)
@@ -59,10 +59,10 @@
 - Documentation on Bootstrap: [Bootstrap](./web_technologies/Bootstrap%20Documentation.pdf)
 - Documentation on Web Technologies: [Web Tech](./web_technologies/Web%20Technologies%20Using%20React.pdf)
 -->
-## ✅ Checkout
+### ✅ Checkout
 - Access my academic lab experiments of Mobile Application Development from [here](https://github.com/AVidhanR/MobileAppDevelopment) (Android using XML and Java).
 - Access my academic lab experiments of Web Technologies from [here](https://github.com/AVidhanR/WebTechnologies) (Beginner Web Stack, MySQL and Java (Servlets, JSP and JDBC)).
-## 💻 My Learning
+### 💻 My Learning
 - 🌱 See what I'm learning now from [here](https://github.com/AVidhanR/LearnBuildGrow)
 - 🔭 I’m currently working on **NextJS**
 - 👯 I’m looking to collaborate and contribute on Android Compose, ReactJS or NextJS.
@@ -82,7 +82,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-## 😇 Profiles
-
+### 😇 Profiles
 #### ⭐ [Daily.Dev](https://app.daily.dev) ⭐
 <div align="center"><a href="https://app.daily.dev/itsvidhanreddy"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a></div>
