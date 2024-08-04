@@ -11,7 +11,7 @@
 
 ```js
   export MyLearningResources = {
-    freeCodeCamp: "",
+    freeCodeCamp: "https://www.freecodecamp.org/AVidhanR",
     YT: "YouTube",
     freeCodeCampYT: "",
     HiteshChoudharyYT: "",
