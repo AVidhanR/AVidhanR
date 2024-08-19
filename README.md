@@ -150,13 +150,13 @@
     height="32"
     title="Next.js: A React framework for server-rendered and statically generated web applications"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
     alt="Angular"
     width="32"
     height="32"
     title="Angular: A TypeScript-based web application framework"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
     alt="C"
