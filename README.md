@@ -425,3 +425,6 @@ Here are some ideas to get you started:
 #### ⭐ [Daily.Dev](https://app.daily.dev) ⭐
 
 <div align="center"><a href="https://app.daily.dev/itsvidhanreddy"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a></div> -->
+
+### 📝 Must Read
+ - Learn and understand about the `Web Storage from this [article](https://dev.to/abhay1kumar/understanding-web-storage-localstorage-sessionstorage-and-cookies-1384)
