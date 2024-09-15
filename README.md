@@ -3,7 +3,7 @@
   <h4>
     I'm a Computer Science & Engineering Undergraduate. 
     <br />
-    Web | Android | Programmer | Developer | Blogger
+    Web | Android | Programmer | Developer
   </h4>
 </div>
 
