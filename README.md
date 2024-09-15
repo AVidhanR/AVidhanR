@@ -95,40 +95,40 @@
 ### ⚙️ Languages and Tools:
 
 <div class="language-icons">
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
     alt="HTML5"
     width="32"
     height="32"
     title="HTML5: The latest version of the HyperText Markup Language"
-  />
-  <img
+  /> -->
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
     alt="CSS"
     width="32"
     height="32"
     title="CSS: A Cascading Style Sheets language for styling web pages"
-  />
-  <img
+  /> -->
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
     alt="SASS"
     width="32"
     height="32"
     title="SASS: A CSS preprocessor"
-  />
-  <img
+  /> -->
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="JavaScript"
     width="32"
     height="32"
-  />
-  <img
+  /> -->
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
     alt="TypeScript"
     width="32"
     height="32"
     title="TypeScript: A superset of JavaScript that adds optional static typing"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
     alt="Tailwind CSS"
@@ -157,13 +157,13 @@
     height="32"
     title="Angular: A TypeScript-based web application framework"
   /> -->
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
     alt="C"
     width="32"
     height="32"
     title="C: A powerful procedural programming language"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
     alt="C++"
@@ -191,13 +191,13 @@
     width="32"
     height="32"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg"
     alt="Streamlit"
     width="32"
     height="32"
     title="Streamlit: An open-source app framework for machine learning and data science"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
     alt="Git"
@@ -205,13 +205,13 @@
     height="32"
     title="Git: A distributed version control system"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
     alt="GitHub"
     width="32"
     height="32"
     title="GitHub: A web-based hosting service for software development projects"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
     alt="Android"
@@ -219,20 +219,20 @@
     height="32"
     title="Android: A mobile operating system for smartphones and tablets"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
     alt="Android Studio"
     width="32"
     height="32"
     title="Android Studio: An official IDE for Android app development"
-  />
-  <img
+  /> -->
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
     alt="Figma"
     width="32"
     height="32"
     title="Figma: A web-based design and prototyping tool"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg"
     alt="Jetpack Compose"
@@ -240,20 +240,20 @@
     height="32"
     title="Jetpack Compose: Android UI toolkit based on Kotlin"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
     alt="Kotlin"
     width="32"
     height="32"
     title="Kotlin: A general-purpose programming language for JVM and Android"
-  />
-  <img
+  /> -->
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg"
     alt="XML"
     width="32"
     height="32"
     title="XML: Extensible Markup Language for data and configuration"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
     alt="MySQL"
@@ -275,27 +275,20 @@
     height="32"
     title="Bash: A Unix shell for command-line scripting"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
     alt="Firebase"
     width="32"
     height="32"
     title="Firebase: A Google platform for building mobile and web apps"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/chrome/chrome-original.svg"
-    alt="Chromium"
-    width="32"
-    height="32"
-    title="Chrome Dev tools"
-  />
-  <img
+  /> -->
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"
     alt="Kaggle"
     width="32"
     height="32"
     title="Kaggle: A platform for data science and machine learning"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg"
     alt="JSON"
@@ -310,13 +303,13 @@
     height="32"
     title="Visual Studio Code: A code editor by Microsoft"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
     alt="IntelliJ IDEA"
     width="32"
     height="32"
     title="IntelliJ IDEA: A Java IDE by JetBrains"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"
     alt="Ubuntu"
@@ -359,13 +352,13 @@
     height="32"
     title="Notion: A note-taking and project management app"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"
     alt="Netlify"
     width="32"
     height="32"
     title="Netlify: A web hosting platform"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
     alt="Vercel"
