@@ -317,13 +317,13 @@
     height="32"
     title="Ubuntu: A Linux distribution"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg"
     alt="Apache Tomcat"
     width="32"
     height="32"
     title="Apache Tomcat: A Java servlet container"
-  />
+  /> -->
 <!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
     alt="Markdown"
@@ -331,7 +331,7 @@
     height="32"
     title="Markdown: A plain text formatting syntax"
   /> -->
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
     alt="SQLite"
     width="32"
@@ -344,7 +344,7 @@
     width="32"
     height="32"
     title="Replit"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"
     alt="Notion"
