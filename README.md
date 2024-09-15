@@ -324,13 +324,13 @@
     height="32"
     title="Apache Tomcat: A Java servlet container"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
     alt="Markdown"
     width="32"
     height="32"
     title="Markdown: A plain text formatting syntax"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
     alt="SQLite"
@@ -359,13 +359,13 @@
     height="32"
     title="Netlify: A web hosting platform"
   /> -->
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
     alt="Vercel"
     width="32"
     height="32"
     title="Vercel: A web hosting platform"
-  />
+  /> -->
 </div>
 <!--
 <style>
