@@ -320,21 +320,24 @@
     height="32"
     title="Ubuntu: A Linux distribution"
   />
-<!--   <img
+<!--   
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg"
     alt="Apache Tomcat"
     width="32"
     height="32"
     title="Apache Tomcat: A Java servlet container"
-  /> -->
-<!--   <img
+  /> 
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
     alt="Markdown"
     width="32"
     height="32"
     title="Markdown: A plain text formatting syntax"
-  /> -->
-<!--   <img
+  /> 
+  -->
+<!--   
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
     alt="SQLite"
     width="32"
@@ -347,7 +350,8 @@
     width="32"
     height="32"
     title="Replit"
-  /> -->
+  />
+  -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"
     alt="Notion"
@@ -355,6 +359,7 @@
     height="32"
     title="Notion: A note-taking and project management app"
   />
+  
 <!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"
     alt="Netlify"
@@ -369,7 +374,9 @@
     height="32"
     title="Vercel: A web hosting platform"
   /> -->
+  
 </div>
+
 <!--
 <style>
   .language-icons {
@@ -403,6 +410,7 @@
 - 😄 Pronouns: Vinnu, Reddy.
 - 📫 How to reach me: [**@itsvidhanreddy**](https://linktr.ee/itsvidhanreddy)
 - 📈 Visit my portfolio from [here](https://avidhanr.github.io/MyPortfolio) - for now, I built it using only HTML, CSS and JavaScript.
+
 <!--
 **AVidhanR/AVidhanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -414,13 +422,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
 <!--
-
 ### 😇 Profiles
-
 #### ⭐ [Daily.Dev](https://app.daily.dev) ⭐
-
-<div align="center"><a href="https://app.daily.dev/itsvidhanreddy"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a></div> -->
+<div align="center"><a href="https://app.daily.dev/itsvidhanreddy"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a></div> 
+-->
 
 ### 📝 Must Read
  - Learn and understand about the `Web Storage` from this [article](https://dev.to/abhay1kumar/understanding-web-storage-localstorage-sessionstorage-and-cookies-1384)
