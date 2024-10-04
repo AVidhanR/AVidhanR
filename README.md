@@ -84,7 +84,7 @@
       title="LinkedIn: Professional networking platform"
     />
   </a>
- <a href="https://twitter.com/itsvidhanreddy">
+ <a href="https://x.com/itsvidhanreddy">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
       alt="Twitter"
