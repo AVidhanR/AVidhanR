@@ -409,7 +409,7 @@
 - 👯 I’m looking to collaborate and contribute on Android Compose, ReactJS, NextJS, Angular.
 - 😄 Pronouns: Vinnu, Reddy.
 - 📫 How to reach me: [**@itsvidhanreddy**](https://linktr.ee/itsvidhanreddy)
-- 📈 Visit my portfolio from [here](https://avidhanr.github.io/MyPortfolio) - for now, I built it using only HTML, CSS and JavaScript.
+- 📈 Visit my portfolio from [here](https://itsvidhanreddy.vercel.app) - Built using NextJS14.
 
 <!--
 **AVidhanR/AVidhanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
