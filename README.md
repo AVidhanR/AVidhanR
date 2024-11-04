@@ -15,19 +15,12 @@
 - A former core member in [GDSC](https://github.com/GDSC-REC) Google Developer Student Club, (REC) Raghu Engineering College, Visakhapatnam.
 - Below details contains my learning resources,
 ```js
-  export MyLearningResources = {
-    freeCodeCamp: "https://www.freecodecamp.org/learn",
-    YT: "YouTube",
-    freeCodeCampYT: "",
-    HiteshChoudharyYT: "",
-    GoogleDevelopers: "Visit the Google Developers Site",
-    GitHub: "From various GitHub Repositories",
-    Udemy: "Free Courses",
-    Coursera: "Auditing the course",
-    edX: "Under College Subscription",
-    CheatSheets: "Access them from the below section",
-    DailyDotDev: "Make sure to be updated with the latest technologies"
-  };
+const aboutMe = {
+  'workingOn': 'react',
+  'learning': 'typescript',
+  'contactMe': 'vidhanreddy.dev@gmail.com',
+  'pronouns': ['he', 'him']
+}
 ```
 
 ### 🤝 Gain Knowledge
