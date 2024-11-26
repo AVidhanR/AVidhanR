@@ -12,8 +12,8 @@
 <a href="https://linkedin.com/in/AVidhanR" target="_blank"><img src="https://img.shields.io/badge/follow%20me%20on%20LinkedIn-0A66C2" alt="itsvidhanreddy" /></a>
 <a href="https://x.com/itsvidhanreddy" target="_blank"><img src="https://img.shields.io/twitter/follow/itsvidhanreddy?label=@itsvidhanreddy&style=social" alt="X"></a>
 <a href="https://twitch.tv/itsvidhanreddi" target="_blank"><img src="https://img.shields.io/twitch/status/itsvidhanreddi?label=Twitch" alt="Twitch"></a>
-- A former core member in [GDSC](https://github.com/GDSC-REC) Google Developer Student Club, (REC) Raghu Engineering College, Visakhapatnam.
-- Below details contains my learning resources,
+- A former core member in [GDG-GDSC](https://github.com/GDSC-REC) Google Developer Student Club, (REC) Raghu Engineering College, Visakhapatnam.
+- About myself in a small object notation,
 ```js
 const aboutMe = {
   'workingOn': 'react',
