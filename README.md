@@ -16,8 +16,8 @@
 - About myself in a small object notation,
 ```js
 const aboutMe = {
-  'workingOn': 'react',
-  'learning': 'typescript',
+  'workingOn': ['react', 'nextjs'],
+  'learning': ['typescript', 'backend'],
   'contactMe': 'vidhanreddy.dev@gmail.com',
   'pronouns': ['he', 'him']
 }
