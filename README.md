@@ -13,7 +13,6 @@
 <a href="https://x.com/itsvidhanreddy" target="_blank"><img src="https://img.shields.io/twitter/follow/itsvidhanreddy?label=@itsvidhanreddy&style=social" alt="X"></a>
 <a href="https://twitch.tv/itsvidhanreddi" target="_blank"><img src="https://img.shields.io/twitch/status/itsvidhanreddi?label=Twitch" alt="Twitch"></a>
 - A former core member in [GDG-GDSC](https://github.com/GDSC-REC) Google Developer Student Club, (REC) Raghu Engineering College, Visakhapatnam.
-- About myself in a small object notation,
 ```js
 const aboutMe = {
   'workingOn': ['react', 'nextjs'],
@@ -65,7 +64,7 @@ const aboutMe = {
 - Documentation on Web Technologies: [Web Tech](./web_technologies/Web%20Technologies%20Using%20React.pdf)
 -->
 
-### 🔗 Lets Connect
+### 🔗 Let's Connect
 
 <div class="language-icons">
   <a href="https://www.linkedin.com/in/AVidhanR">
