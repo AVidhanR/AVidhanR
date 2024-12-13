@@ -38,6 +38,7 @@ console.log(aboutMe);
 - Checkout my Cheat-Sheets collection from [here](./cheat_sheets/)
 - Checkout my bash commands cheat-sheet from [here](./bash_commands.png)
 <!--
+
 - From `web.dev`
   - Learn HTML: [HTML](https://web.dev/learn/html)
   - Learn CSS: [CSS](https://web.dev/learn/css)
@@ -64,6 +65,7 @@ console.log(aboutMe);
   - MS Excel, Word and Outlook Shortcuts: [Productivity Shortcuts](./shortcuts/MS%20Excel,%20Word%20and%20Outlook%20Shortcuts.png)
 - Documentation on Bootstrap: [Bootstrap](./web_technologies/Bootstrap%20Documentation.pdf)
 - Documentation on Web Technologies: [Web Tech](./web_technologies/Web%20Technologies%20Using%20React.pdf)
+
 -->
 
 ### 🔗 Let's Connect
@@ -392,7 +394,7 @@ console.log(aboutMe);
 ### 💻 My Learning
 
 - 🌱 See what I'm learning now from [here](https://github.com/AVidhanR/LearnBuildGrow)
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working on **Next and React**
 - 👯 I’m looking to collaborate and contribute on Android Compose, ReactJS, NextJS, Angular.
 - 😄 Pronouns: Vinnu, Reddy.
 - 📫 How to reach me: [**@itsvidhanreddy**](https://linktr.ee/itsvidhanreddy)
