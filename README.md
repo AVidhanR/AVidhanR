@@ -39,7 +39,6 @@ console.log(aboutMe);
 - Checkout my Cheat-Sheets collection from [here](./cheat_sheets/)
 - Checkout my bash commands cheat-sheet from [here](./bash_commands.png)
 <!--
-
 - From `web.dev`
   - Learn HTML: [HTML](https://web.dev/learn/html)
   - Learn CSS: [CSS](https://web.dev/learn/css)
@@ -47,12 +46,9 @@ console.log(aboutMe);
 - Learn ReactJS through the tutorials and official documentation: [ReactJS](https://react.dev/learn)
   - **After ReactJS**, try to learn and use [ReactJS + Vite](https://vitejs.dev/guide/#trying-vite-online)
 - Learn NodeJS through the official tutorial: [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-
   - **After NodeJS**, try to learn and use [ExpressJS](https://expressjs.com/en/starter/installing.html)
-
 - Learn NextJS from the Vercel (As NextJS is a ReactJS framework, It's a good practice to learn ReactJS before learning NextJS): [NextJS](https://nextjs.org/learn/dashboard-app)
 - Get a good grip of TailwindCSS (It's a good practice to learn the official CSS before learning TailwindCSS): [TailwindCSS]
-
 - Learn TypeScript for:
   - [Full Fledged Handbook: TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
   - [A New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
@@ -66,7 +62,6 @@ console.log(aboutMe);
   - MS Excel, Word and Outlook Shortcuts: [Productivity Shortcuts](./shortcuts/MS%20Excel,%20Word%20and%20Outlook%20Shortcuts.png)
 - Documentation on Bootstrap: [Bootstrap](./web_technologies/Bootstrap%20Documentation.pdf)
 - Documentation on Web Technologies: [Web Tech](./web_technologies/Web%20Technologies%20Using%20React.pdf)
-
 -->
 
 ## ⚙️ Languages and Tools:
