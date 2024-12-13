@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there 👋🏻 I'm Vidhan 🚀</h2>
+  <h1>Hi there 👋🏻 I'm Vidhan 🚀</h1>
   <h4>
     I'm a Computer Science & Engineering Undergraduate. 
     <br />
@@ -7,7 +7,7 @@
   </h4>
 </div>
 
-### 🌟 Highlights
+## 🌟 Highlights
 
 <a href="https://linkedin.com/in/AVidhanR" target="_blank"><img src="https://img.shields.io/badge/follow%20me%20on%20LinkedIn-0A66C2" alt="itsvidhanreddy" /></a>
 <a href="https://x.com/itsvidhanreddy" target="_blank"><img src="https://img.shields.io/twitter/follow/itsvidhanreddy?label=@itsvidhanreddy&style=social" alt="X"></a>
@@ -30,7 +30,7 @@ const aboutMe: {
 console.log(aboutMe);
 ```
 
-### 🤝 Gain Knowledge
+## 🤝 Gain Knowledge
 
 - Learn to become a Data Science specialist: [Data Science](https://www.kaggle.com/learn)
 - Learn Compose using Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
@@ -69,30 +69,7 @@ console.log(aboutMe);
 
 -->
 
-### 🔗 Let's Connect
-
-<div class="language-icons">
-  <a href="https://www.linkedin.com/in/AVidhanR">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-      alt="LinkedIn"
-      width="32"
-      height="32"
-      title="LinkedIn: Professional networking platform"
-    />
-  </a>
- <a href="https://x.com/itsvidhanreddy">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
-      alt="Twitter"
-      width="32"
-      height="32"
-      title="Twitter: Social media platform for microblogging"
-    />
-  </a>
-</div>
-
-### ⚙️ Languages and Tools:
+## ⚙️ Languages and Tools:
 
 <div class="language-icons">
     <img
@@ -387,12 +364,12 @@ console.log(aboutMe);
 </style>
 -->
 
-### ✅ Checkout
+## ✅ Checkout
 
 - Learn Mobile Application Development (Beginner) within `20Days` from [here](https://github.com/AVidhanR/MobileAppDevelopment) (Android using XML and Java).
 - Learn Web Technologies (Beginner) within `20Days` from [here](https://github.com/AVidhanR/WebTechnologies) (Beginner Web Stack, MySQL and Java (Servlets, JSP and JDBC)).
 
-### 💻 My Learning
+## 💻 My Learning
 
 - 🌱 See what I'm learning now from [here](https://github.com/AVidhanR/LearnBuildGrow)
 - 🔭 I’m currently working on **Next and React**
@@ -400,6 +377,29 @@ console.log(aboutMe);
 - 😄 Pronouns: Vinnu, Reddy.
 - 📫 How to reach me: [**@itsvidhanreddy**](https://linktr.ee/itsvidhanreddy)
 - 📈 Visit my portfolio from [here](https://itsvidhanreddy.vercel.app) - Built using NextJS14.
+
+## 🔗 Let's Connect
+
+<div class="language-icons">
+  <a href="https://www.linkedin.com/in/AVidhanR">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="32"
+      height="32"
+      title="LinkedIn: Professional networking platform"
+    />
+  </a>
+ <a href="https://x.com/itsvidhanreddy">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
+      alt="Twitter"
+      width="32"
+      height="32"
+      title="Twitter: Social media platform for microblogging"
+    />
+  </a>
+</div>
 
 <!--
 **AVidhanR/AVidhanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -419,5 +419,13 @@ Here are some ideas to get you started:
 <div align="center"><a href="https://app.daily.dev/itsvidhanreddy"><img src="https://api.daily.dev/devcards/v2/QYa2Q5Bf97YmbOC9rer5L.png?type=wide&r=egh" width="652" alt="AVidhanR's Dev Card"/></a></div> 
 -->
 
-### 📝 Must Read
+## :octocat: GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AVidhanR&show_icons=true&theme=radical)
+
+## 🚀 Top Languages 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AVidhanR&layout=compact&theme=radical)
+
+## 📝 Must Read
  - Learn and understand about the `Web Storage` from this [article](https://dev.to/abhay1kumar/understanding-web-storage-localstorage-sessionstorage-and-cookies-1384)
