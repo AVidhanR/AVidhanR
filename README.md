@@ -13,13 +13,20 @@
 <a href="https://x.com/itsvidhanreddy" target="_blank"><img src="https://img.shields.io/twitter/follow/itsvidhanreddy?label=@itsvidhanreddy&style=social" alt="X"></a>
 <a href="https://twitch.tv/itsvidhanreddi" target="_blank"><img src="https://img.shields.io/twitch/status/itsvidhanreddi?label=Twitch" alt="Twitch"></a>
 - A former core member in [GDG-GDSC](https://github.com/GDSC-REC) Google Developer Student Club, (REC) Raghu Engineering College, Visakhapatnam.
-```js
-const aboutMe = {
-  'workingOn': ['react', 'nextjs'],
-  'learning': ['typescript', 'backend'],
-  'contactMe': 'vidhanreddy.dev@gmail.com',
-  'pronouns': ['he', 'him']
-}
+```ts
+const aboutMe: {
+  workingOn: string[];
+  learning: string[];
+  contactMe: string;
+  pronouns: string[];
+} = {
+  workingOn: ['react', 'nextjs'],
+  learning: ['typescript', 'backend'],
+  contactMe: 'vidhanreddy.dev@gmail.com',
+  pronouns: ['he', 'him'],
+};
+
+console.log(aboutMe);
 ```
 
 ### 🤝 Gain Knowledge
@@ -49,13 +56,8 @@ const aboutMe = {
   - [A New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
   - [A JavaScript Programmer](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
   - [A Java/C# Programmer](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)
-  -->
-  <!--
   - CheatSheet of Flexbox: [CSS Flexbox](./cheat_sheets/css/CSS%20Flexbox%20Cheatsheet.pdf)
   - CheatSheet of Grids: [CSS Grids](./cheat_sheets/css/CSS%20Grid%20Cheatsheet.pdf)
-    -->
-
-<!--
   - Computer Shortcuts only using Ctrl key: [Ctrl Key Shortcuts](./shortcuts/Control%20Key%20Shortcuts.png)
   - All Computer Shortcuts: [Computer Shortcuts](./shortcuts/All%20Useful%20Computer%20Shortcuts.png)
   - Visual Studio Code Shortcuts: [VS Code Shortcuts](./shortcuts/Visual%20Studio%20Code%20Shortcuts.pdf)
