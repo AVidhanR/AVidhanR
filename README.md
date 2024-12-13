@@ -166,13 +166,13 @@ const aboutMe = {
     height="32"
     title="C++: A general-purpose programming language with object-oriented features"
   />
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
     alt="C#"
     width="32"
     height="32"
     title="C#: A modern object-oriented programming language for .NET platform"
-  />
+  /> -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     alt="Java"
