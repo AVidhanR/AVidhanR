@@ -13,6 +13,7 @@
 <a href="https://x.com/itsvidhanreddy" target="_blank"><img src="https://img.shields.io/twitter/follow/itsvidhanreddy?label=@itsvidhanreddy&style=social" alt="X"></a>
 <a href="https://twitch.tv/itsvidhanreddi" target="_blank"><img src="https://img.shields.io/twitch/status/itsvidhanreddi?label=Twitch" alt="Twitch"></a>
 - A former core member in [GDG-GDSC](https://github.com/GDSC-REC) Google Developer Student Club, (REC) Raghu Engineering College, Visakhapatnam.
+- Check out my `gists` from [here](https://gist.github.com/AVidhanR)
 
 ```ts
 const aboutMe: {
