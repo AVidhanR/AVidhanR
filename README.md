@@ -21,7 +21,7 @@ const aboutMe: {
   contactMe: string;
   pronouns: string[];
 } = {
-  workingOn: ['react', 'nextjs'],
+  workingOn: ['react', 'nextjs', 'oracle-sql-plsql'],
   learning: ['typescript', 'odi', 'obiee'],
   contactMe: 'vidhanreddy.dev@gmail.com',
   pronouns: ['he', 'him'],
