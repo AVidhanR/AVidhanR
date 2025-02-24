@@ -22,7 +22,7 @@ const aboutMe: {
   pronouns: string[];
 } = {
   workingOn: ['react', 'nextjs'],
-  learning: ['typescript', 'backend'],
+  learning: ['typescript', 'odi', 'obiee'],
   contactMe: 'vidhanreddy.dev@gmail.com',
   pronouns: ['he', 'him'],
 };
