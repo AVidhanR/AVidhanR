@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋🏻 I'm Vidhan 🚀</h1>
   <h4>
-    I'm a Computer Science & Engineering Undergraduate. 
+    I'm a BI Developer working @CTS. 
     <br />
     Web | Android | Programmer | Developer
   </h4>
