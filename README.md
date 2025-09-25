@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there 👋🏻 I'm Vidhan 🚀</h1>
   <h4>
-    I'm a BI Developer working @CTS. 
+    I'm a BI Developer@CTS. 
     <br />
-    Web | Android | Programmer | Developer
+    Web | Android | Developer | Business Intelligence
   </h4>
 </div>
 
@@ -19,12 +19,12 @@ const aboutMe: {
   workingOn: string[];
   learning: string[];
   contactMe: string;
-  pronouns: string[];
+  pronouns: string;
 } = {
-  workingOn: ['react', 'nextjs', 'oracle-sql-plsql'],
-  learning: ['typescript', 'odi', 'obiee'],
+  workingOn: ['genai', 'java', 'svelte', 'python'],
+  learning: ['ml', 'algebra', 'oac'],
   contactMe: 'vidhanreddy.dev@gmail.com',
-  pronouns: ['he', 'him'],
+  pronouns: 'he/him',
 };
 
 console.log(aboutMe);
