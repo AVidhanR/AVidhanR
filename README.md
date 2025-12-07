@@ -1,40 +1,56 @@
-<div align="center">
-  <h1>Hi there 👋🏻 I'm Vidhan 🚀</h1>
-  <h4>
-    I'm a FDI Developer. 
-    <br />
-    Oracle Fusion Data Intelligence Developer | Oracle SQL, PL/SQL
-  </h4>
-</div>
+<a href="https://linkedin.com/in/AVidhanR" target="_blank"><img src="https://img.shields.io/badge/follow%20me%20on%20LinkedIn-0A66C2" alt="itsvidhanreddy" /></a> <a href="https://x.com/itsvidhanreddy" target="_blank"><img src="https://img.shields.io/twitter/follow/itsvidhanreddy?label=@itsvidhanreddy&style=social" alt="X"></a>
 
-## 🌟 Highlights
+```sql
+/* ===========================================================
+   Author: A. Vidhan Reddy
+   Role  : Oracle Fusion Data Intelligence Developer
+   =========================================================== */
 
-<a href="https://linkedin.com/in/AVidhanR" target="_blank"><img src="https://img.shields.io/badge/follow%20me%20on%20LinkedIn-0A66C2" alt="itsvidhanreddy" /></a>
-<a href="https://x.com/itsvidhanreddy" target="_blank"><img src="https://img.shields.io/twitter/follow/itsvidhanreddy?label=@itsvidhanreddy&style=social" alt="X"></a>
-- A former core member in [GDG-GDSC](https://github.com/GDSC-REC) Google Developer Student Club, (REC) Raghu Engineering College, Visakhapatnam.
-- Check out my `gists` from [here](https://gist.github.com/AVidhanR)
+CREATE OR REPLACE PROCEDURE about_vidhan_reddy
+IS
+    v_name            VARCHAR2(100) := 'A. Vidhan Reddy';
 
-```ts
-const aboutMe: {
-  workingOn: string[];
-  learning: string[];
-  contactMe: string;
-  pronouns: string;
-} = {
-  workingOn: ['genai', 'java', 'svelte', 'python'],
-  learning: ['ml', 'algebra', 'oac'],
-  contactMe: 'vidhanreddy.dev@gmail.com',
-  pronouns: 'he/him',
-};
+    v_education       VARCHAR2(300) :=
+        'B.Tech in Computer Science Engineering (Honors), ' ||
+        'Raghu Engineering College | CGPA: 9.42';
 
-console.log(aboutMe);
+    v_current_role    VARCHAR2(200) :=
+        'Programmer Analyst Trainee @ Cognizant Technology Solutions';
+
+    v_specialization  VARCHAR2(400) :=
+        'Oracle Fusion Data Intelligence (FDI), ' ||
+        'Oracle Cloud Infrastructure – Data Integration (OCI-DI), ' ||
+        'Oracle SQL & PL/SQL';
+
+    TYPE tech_stack_t IS TABLE OF VARCHAR2(100);
+
+    v_oracle_stack     tech_stack_t := tech_stack_t(
+        'SQL', 'PL/SQL', 'FDI', 'OCI-DI', 'OBIEE', 'ODI Studio', 'OAC'
+    );
+
+    v_programming     tech_stack_t := tech_stack_t(
+        'Python', 'JavaScript', 'HTML', 'CSS'
+    );
+
+    v_tools_concepts  tech_stack_t := tech_stack_t(
+        'Git', 'Generative AI Tools', 'OOP', 'Cloud Analytics'
+    );
+
+    v_certifications  tech_stack_t := tech_stack_t(
+        'OCI Foundations Associate',
+        'Oracle Fusion Data Intelligence – Oracle University',
+        'Linux Unhatched – Cisco Networking Academy & NDG',
+        'HTML, CSS, JavaScript, Python – Codedex',
+        'SQL – HackerRank'
+    );
+
+    v_interests       VARCHAR2(300) :=
+        'Building scalable data-driven solutions, ' ||
+        'cloud analytics, continuous learning, ' ||
+        'solving real-world problems';
+
+BEGIN
+    NULL; -- Profile initialized successfully
+END about_vidhan_reddy;
+/
 ```
-
-## 🤝 Gain Knowledge
-
-- Learn to become a Data Science specialist: [Data Science](https://www.kaggle.com/learn)
-- Learn Compose using Kotlin: [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
-- Learn Machine Learning from Google Devs: [Machine Learning](https://developers.google.com/machine-learning)
-- Checkout my Shortcuts from [here](./shortcuts/)
-- Checkout my Cheat-Sheets collection from [here](./cheat_sheets/)
-- Checkout my bash commands cheat-sheet from [here](./bash_commands.png
