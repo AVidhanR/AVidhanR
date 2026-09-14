@@ -15,17 +15,17 @@ IS
         'Raghu Engineering College | CGPA: 9.42';
 
     v_current_role    VARCHAR2(200) :=
-        'Programmer Analyst Trainee @ Cognizant Technology Solutions';
+        'Programmer Analyst @ Cognizant Technology Solutions';
 
     v_specialization  VARCHAR2(400) :=
         'Oracle Fusion Data Intelligence (FDI), ' ||
-        'Oracle Cloud Infrastructure – Data Integration (OCI-DI), ' ||
-        'Oracle SQL & PL/SQL';
+        'Oracle Cloud Infrastructure – Data Integration (OCI-DI), ' || 'Oracle AI Data Platform (AIDP)' 
+        || 'Oracle SQL & PL/SQL';
 
     TYPE tech_stack_t IS TABLE OF VARCHAR2(100);
 
     v_oracle_stack     tech_stack_t := tech_stack_t(
-        'SQL', 'PL/SQL', 'FDI', 'OCI-DI', 'OBIEE', 'ODI Studio', 'OAC'
+        'SQL', 'PL/SQL', 'FDI', 'OCI-DI', 'AIDP', 'OAC'
     );
 
     v_programming     tech_stack_t := tech_stack_t(
